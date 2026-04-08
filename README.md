@@ -21,4 +21,4 @@ I am a dedicated team player who thrives in collaborative environments. With yea
 I am currently looking for a relevant student position where my dedication, initiative, and fast-learning abilities can make a difference. If your team needs a student who takes ownership and learns fast, let's talk!
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Magnus Rasmussen) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:magnus.rasmussen03@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/magnusrasmussen-/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:magnus.rasmussen03@gmail.com)
