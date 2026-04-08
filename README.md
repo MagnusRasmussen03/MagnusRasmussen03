@@ -22,5 +22,5 @@ I am a dedicated team player who thrives in collaborative environments. With yea
 **Status: Looking for a Student Developer Job! 💼**
 I am currently looking for a relevant student position where my dedication, initiative, and fast-learning abilities can make a difference. If your team needs a student who takes ownership and learns fast, let's talk!
 
-* [Find me on LinkedIn]((https://www.linkedin.com/in/magnusrasmussen-/))
+* [Find me on LinkedIn](https://www.linkedin.com/in/magnusrasmussen-/)
 * [Email me](magnus.rasmussen03@gmail.com)
